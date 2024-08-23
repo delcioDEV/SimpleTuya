@@ -1,0 +1,5 @@
+SimpleTuya    KEYWORD1
+begin         KEYWORD2
+setDeviceIP   KEYWORD2
+getDeviceStatus KEYWORD2
+sendCommand   KEYWORD2
